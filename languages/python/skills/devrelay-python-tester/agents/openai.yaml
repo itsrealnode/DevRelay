@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · Тестировщик"
+  short_description: "Проверка требований, API, данных и побочных эффектов"
+  default_prompt: "Примени $devrelay-python-tester: выведи тест-кейсы из требований и проверь реализацию."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · Ревьюер"
+  short_description: "Ревью изменений по контракту и правилам проекта"
+  default_prompt: "Примени $devrelay-python-reviewer: проверь эти изменения по постановке и покажи подтверждаемые дефекты."

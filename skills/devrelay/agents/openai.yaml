@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay"
+  short_description: "Цикл разработки, ревью и тестирования задачи"
+  default_prompt: "Примени $devrelay к этой задаче в текущем проекте."

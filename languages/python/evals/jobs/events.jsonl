@@ -1,0 +1,6 @@
+{"time":"10:01:00Z","id":"A17","event":"published","version":"1"}
+{"time":"10:02:00Z","id":"A17","event":"received","worker_version":"2"}
+{"time":"10:02:01Z","id":"A17","event":"dispatch_error","error_type":"TypeError"}
+{"time":"10:03:00Z","id":"B18","event":"published","version":"2"}
+{"time":"10:03:01Z","id":"B18","event":"received","worker_version":"2"}
+{"time":"10:03:02Z","id":"B18","event":"completed","worker_version":"2"}

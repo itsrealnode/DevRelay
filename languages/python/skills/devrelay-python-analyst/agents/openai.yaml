@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · Аналитик"
+  short_description: "Сверка требований с кодом и уточнение контрактов"
+  default_prompt: "Примени $devrelay-python-analyst: сверь постановку с действующим кодом и выдели вопросы, которые влияют на результат."

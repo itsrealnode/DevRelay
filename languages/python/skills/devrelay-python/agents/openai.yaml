@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · Полный цикл"
+  short_description: "Анализ, согласование плана, разработка и приёмка"
+  default_prompt: "Примени $devrelay-python для полного цикла разработки этой задачи."

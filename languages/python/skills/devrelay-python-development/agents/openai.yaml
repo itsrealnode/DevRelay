@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · Консилиум разработки"
+  short_description: "План, реализация и самопроверка Python-бэкенда"
+  default_prompt: "Примени $devrelay-python-development для реализации этой задачи по правилам проекта."

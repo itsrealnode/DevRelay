@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · DevOps"
+  short_description: "Проверка настроек процессов и готовности к выкладке"
+  default_prompt: "Примени $devrelay-python-devops и проверь, какие настройки нужны для запуска этой задачи в целевом окружении."

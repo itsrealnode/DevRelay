@@ -1,0 +1,14 @@
+{
+  "services": {
+    "api": {
+      "image": "reporting:staging",
+      "command": ["gunicorn", "reporting.wsgi"],
+      "environment": ["REPORTS_URL", "REPORTS_AUTH_TOKEN", "CELERY_BROKER_URL"]
+    },
+    "worker": {
+      "image": "reporting:staging",
+      "command": ["celery", "-A", "reporting", "worker", "-Q", "default,exports"],
+      "environment": ["REPORTS_URL", "REPORTS_AUTH_TOKEN", "CELERY_BROKER_URL"]
+    }
+  }
+}

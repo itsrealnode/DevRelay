@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · Технический советник"
+  short_description: "Второе мнение по сложным решениям в Python-бэкенде"
+  default_prompt: "Примени $devrelay-python-advisor к этому решению. Сравни варианты и предложи один с учётом ограничений проекта."

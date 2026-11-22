@@ -1,0 +1,6 @@
+fastapi==0.162.0
+pydantic==2.14.2
+dishka==1.10.1
+SQLAlchemy[asyncio]==2.0.55
+aiosqlite==0.22.1
+uvicorn==0.54.0

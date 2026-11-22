@@ -1,0 +1,4 @@
+{
+  "A17": {"task": "send_report", "args": [17], "kwargs": {}},
+  "B18": {"task": "send_report", "args": [18], "kwargs": {"locale": "en"}}
+}

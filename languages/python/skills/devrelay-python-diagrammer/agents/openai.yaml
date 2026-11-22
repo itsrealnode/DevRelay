@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · UML-диаграммы"
+  short_description: "Диаграммы вызовов, состояний и связей по коду или плану"
+  default_prompt: "Примени $devrelay-python-diagrammer и покажи на схеме, как выполняется этот сценарий и что происходит при повторе."

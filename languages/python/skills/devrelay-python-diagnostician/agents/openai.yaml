@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevRelay Python · Диагност"
+  short_description: "Поиск причины сбоя по событиям, коду и воспроизведению"
+  default_prompt: "Примени $devrelay-python-diagnostician к этому симптому и проверь конкурирующие объяснения."
